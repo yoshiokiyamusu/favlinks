@@ -1,0 +1,25 @@
+
+
+----GITHUB--------------------------------------------------------------------------------
+1) create repository on github
+1.1) en el terminal atom escribir "git init"
+1.2) en el terminal atom escribir "git add ." y luego "git commit -m "first commit" "
+
+
+1.3) git remote add favlinks https://github.com/yoshiokiyamusu/favlinks.git
+
+
+2)push to master your localhost code
+git push favlinks master
+
+yoshiokiyamusu@gmail.com
+
+3) pull code from github
+git pull favlinks master
+----------------------------------------------
+4) branches:
+4.1) creo un branch localy
+git checkout -b ramagh
+
+4.2) push the branch into the corresponding github repository
+git push favlinks ramagh
