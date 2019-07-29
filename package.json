@@ -4,8 +4,8 @@
   "description": "mi primera app en node y mysql",
   "main": "index.js",
   "scripts": {
-
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon ./src"
   },
   "author": "yoshio",
   "license": "ISC",
